@@ -1,4 +1,4 @@
--- // Feito por juN/pietro/felipe rumanov
+-- // Feito por capes905
 
 local overheadConfig = {
     enabled = true,
