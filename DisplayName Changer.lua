@@ -1,4 +1,4 @@
--- // Feito por capes905
+-- // Feito por razerbignamer
 
 local overheadConfig = {
     enabled = true,
